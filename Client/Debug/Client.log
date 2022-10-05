@@ -1,0 +1,22 @@
+﻿  Client.cpp
+D:\btl-file-ltm\Client\ProcessMessage.h(11,3): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\btl-file-ltm\Client\Folder.h(11,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\btl-file-ltm\Client\Folder.h(26,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\btl-file-ltm\Client\Folder.h(48,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\btl-file-ltm\Client\Folder.h(73,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\btl-file-ltm\Client\Folder.h(87,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\btl-file-ltm\Client\Folder.h(88,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\btl-file-ltm\Client\Folder.h(94,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\btl-file-ltm\Client\RecvHandle.h(67,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\btl-file-ltm\Client\RecvHandle.h(129,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\btl-file-ltm\Client\RecvHandle.h(177,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\btl-file-ltm\Client\RecvHandle.h(188,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\btl-file-ltm\Client\RecvHandle.h(289,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\btl-file-ltm\Client\FileTransfer.h(17,30): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\btl-file-ltm\Client\FileTransfer.h(11,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\btl-file-ltm\Client\FileTransfer.h(60,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\btl-file-ltm\Client\FileTransfer.h(64,7): warning C4101: 'data': unreferenced local variable
+D:\btl-file-ltm\Client\Client.cpp(48,11): warning C4101: 'messageLen': unreferenced local variable
+  stdafx.cpp
+  Generating Code...
+  Client.vcxproj -> D:\btl-file-ltm\Debug\Client.exe
